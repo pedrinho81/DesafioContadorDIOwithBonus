@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+}
+
+
+section {
+    border-top: 10%;
+    display:flex;
+}
+
+span.positive {
+    color: blue;
+}
+
+span {
+    color: red;
+}
